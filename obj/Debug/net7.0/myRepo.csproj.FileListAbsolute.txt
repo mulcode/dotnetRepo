@@ -1,0 +1,14 @@
+C:\Users\Nazmul\Desktop\dotnet\myRepo\bin\Debug\net7.0\myRepo.exe
+C:\Users\Nazmul\Desktop\dotnet\myRepo\bin\Debug\net7.0\myRepo.deps.json
+C:\Users\Nazmul\Desktop\dotnet\myRepo\bin\Debug\net7.0\myRepo.runtimeconfig.json
+C:\Users\Nazmul\Desktop\dotnet\myRepo\bin\Debug\net7.0\myRepo.dll
+C:\Users\Nazmul\Desktop\dotnet\myRepo\bin\Debug\net7.0\myRepo.pdb
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.AssemblyInfoInputs.cache
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.AssemblyInfo.cs
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.csproj.CoreCompileInputs.cache
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.dll
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\refint\myRepo.dll
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.pdb
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\myRepo.genruntimeconfig.cache
+C:\Users\Nazmul\Desktop\dotnet\myRepo\obj\Debug\net7.0\ref\myRepo.dll
