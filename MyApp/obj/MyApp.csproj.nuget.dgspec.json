@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\myRepo.csproj": {}
+    "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\myRepo.csproj": {
+    "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\myRepo.csproj",
-        "projectName": "myRepo",
-        "projectPath": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\myRepo.csproj",
+        "projectUniqueName": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\MyApp\\MyApp.csproj",
+        "projectName": "MyApp",
+        "projectPath": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\Nazmul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\obj\\",
+        "outputPath": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nazmul\\AppData\\Roaming\\NuGet\\NuGet.Config"

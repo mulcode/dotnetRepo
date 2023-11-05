@@ -1,3 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("This is My first dotnetnconsole app");
+Console.WriteLine("Hello, World!");
