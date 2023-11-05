@@ -1,0 +1,14 @@
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\bin\Debug\net7.0\Array.exe
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\bin\Debug\net7.0\Array.dll
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.dll
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\Nazmul\Desktop\DotNet\dotnetRepo\Array\obj\Debug\net7.0\ref\Array.dll
