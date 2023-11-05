@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\Array\\Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\MyApp\\MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\Array\\Array.csproj",
+        "projectName": "Array",
+        "projectPath": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\Nazmul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nazmul\\AppData\\Roaming\\NuGet\\NuGet.Config"

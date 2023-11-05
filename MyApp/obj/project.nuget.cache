@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1iLHQuhvheS804DxhDqyEaSSBBvaIpdcgQwDvuPbrMBXySMUzu4uYTS7HPl/fmAYiKULxtYXpn3pP8CGoJWlfg==",
+  "dgSpecHash": "qKok2YHRw6Mjvbuf6Nh5x5DF1Q3W5/lroqz0Ub3bf9GRFb10S1Rh/8PcVgnE5i7fjAHW3xjBpnMr/tfy/Po4tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nazmul\\Desktop\\dotnet\\myRepo\\MyApp\\MyApp.csproj",
+  "projectFilePath": "C:\\Users\\Nazmul\\Desktop\\DotNet\\dotnetRepo\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
